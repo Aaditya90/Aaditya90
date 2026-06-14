@@ -1,34 +1,98 @@
-# Hi there, I'm Aaditya! 👋
+<div align="center">
 
-- 🎓 **B.Tech Computer Science Student**
-- 💻 **Full-Stack MERN Stack & .NET Developer**
-- 🚀 Technology Enthusiast & Programmer
+# 👋 Hi, I'm Aditya Mishra
 
----
+### 💻 Full Stack Web Developer | React Developer | Python Developer
 
-### My GitHub Stats 📊
+> 🚀 Building modern web applications with clean code and great user experience.
 
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya90&show_icons=true&theme=tokyonight)
+</div>
 
 ---
 
-### Skills & Technologies 🛠️
+# 🚀 About Me
 
-**Frontend & Backend Development:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Languages & Tools:**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently mastering React & FastAPI
+- 🔥 Love solving real-world problems through code
+- 📚 Continuously learning new technologies
+- 🎯 Goal: Become a Software Engineer in a top tech company
 
 ---
 
-### My Down Time ☕
+# 🛠 Tech Stack
 
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
+## Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+
+## Backend
+- Python
+- FastAPI
+- Django
+
+## Database
+- MySQL
+- PostgreSQL
+- MongoDB
+
+## Tools
+- Git
+- GitHub
+- VS Code
+
+## Other Skills
+- REST APIs
+- Deployment
+- Responsive Web Design
+
+---
+
+# 📂 Featured Projects
+
+### 🌐 Portfolio Website
+Modern responsive portfolio built using HTML, CSS & JavaScript.
+
+### 📝 Todo App
+Task management application built with React.
+
+### 🌦 Weather App
+Real-time weather application using APIs.
+
+### 🔐 Authentication System
+Login & Registration system using Python & FastAPI.
+
+### 🛒 E-Commerce Website
+Responsive shopping website with modern UI.
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master React
+- ✅ Master FastAPI
+- ✅ Build 20+ Real Projects
+- ✅ Improve DSA
+- ✅ Get a Software Developer Job
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: **mishraaditya497@gmail.com**
+
+💼 LinkedIn: **Add Your LinkedIn Link**
+
+🐙 GitHub: **https://github.com/YOUR_USERNAME**
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile ⭐
+
+### Code • Learn • Build • Repeat 🚀
+
+</div>
