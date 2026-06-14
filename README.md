@@ -20,12 +20,6 @@
 
 
 
-### My GitHub Stats 📊
-
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditya90&show_icons=true&theme=tokyonight)
-
----
-
 ### Skills & Technologies 🛠️
 
 **Frontend Development:**
